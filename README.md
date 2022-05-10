@@ -1,4 +1,4 @@
-# React_exercise_GithunSearch
+# React_exercise_GithubSearch
 A simple exercise of Ajax using axios.
 
 This project wirtes a page of Github Search, which aims to practice Ajax.
